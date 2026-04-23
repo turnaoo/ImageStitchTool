@@ -6,3 +6,9 @@ A more feature-rich and easy-to-use image stitching tool, check the release to d
 
 ## ScreenShot2
 ![https://user-images.githubusercontent.com/xxxx/xxxx.png](https://github.com/turnaoo/ImageStitchTool/blob/main/example/ScreenShot1.png)
+
+## OutputExample1
+![https://github.com/turnaoo/ImageStitchTool/blob/main/example/output2.png](https://github.com/turnaoo/ImageStitchTool/blob/main/example/output2.png)
+
+## OutputExample1
+![https://github.com/turnaoo/ImageStitchTool/blob/main/example/output3.png](https://github.com/turnaoo/ImageStitchTool/blob/main/example/output3.png)
